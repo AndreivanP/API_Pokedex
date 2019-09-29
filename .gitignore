@@ -1,5 +1,6 @@
 # Dependency directories
 node_modules/
+mochawesome-report/assets/
 
 # Optional npm cache directory
 .npm
